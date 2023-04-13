@@ -1,0 +1,10 @@
+.container .row .card {
+    justify-content: center;
+    align-items: center;
+    background-color: #9966cc;
+}
+
+
+span {
+    color: #251607;
+}
